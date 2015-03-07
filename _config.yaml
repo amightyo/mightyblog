@@ -1,2 +1,4 @@
 # Build settings
 markdown: kramdown
+encoding: utf-8
+highlighter: pygments
